@@ -56,7 +56,7 @@ const Link = styled.a`
 `;
 
 const Wrapper = styled.article`
-  min-width: 300px;
+  max-width: 300px;
   `;
 
 const ImageWrapper = styled.div`
